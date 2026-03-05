@@ -19,7 +19,7 @@ Services Used:
 -Security Groups
 -Linux (Ubuntu)
 
-Outcome: 
+Outcome:
 The EC2 instance was successfully secured and monitored.
 The CloudWatch alarm tracks CPU usage and sends an email alert if usage exceeds the defined threshold.
 
