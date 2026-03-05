@@ -20,8 +20,4 @@ Services Used:
 -Linux (Ubuntu)
 
 Outcome:
-The EC2 instance was successfully secured and monitored.
-The CloudWatch alarm tracks CPU usage and sends an email alert if usage exceeds the defined threshold.
-
-Te EC2 instance was successfully secured and monitored.
-The CloudWatch alarm tracks CPU usage and sends an email alert if usage exceeds the defined threshold.
+The EC2 instance was successfully secured and monitored. The CLoudWatch alarm tracks CPU usage and sends an email alert if usage exceeds the defined threshold.
